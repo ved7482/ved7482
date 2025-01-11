@@ -3,7 +3,7 @@
 **A Student by day ☼ and a Coder by night ☾**
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ved7482&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=arpitbhau&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ## 🎓 About Me
