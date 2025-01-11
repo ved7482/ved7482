@@ -20,8 +20,10 @@
 - **Currently Learning**: `React.js`  
 - **Working On**: Learning projects on WEB Development -->
 - **Reach Out To Me**:  
-  - 🌍 [LinkedIn](https://www.linkedin.com/in/divyanshu-nikhade-a887b5331/)  
-  <!-- - 🖋️ [Blog]( )  
+  - 📸 [Instagram](https://www.instagram.com/divyanshu_nikhade/)  
+  - 🌍 [LinkedIn](https://www.linkedin.com/in/divyanshu-nikhade-a887b5331/)
+  <!--
+  - 🖋️ [Blog]( )  
   - 📺 [YouTube](https://www.youtube.com/@DivyanshuNikhade)  
   - 💼 [Portfolio](https://www.moncy.dev/) -->
 
