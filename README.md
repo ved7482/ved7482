@@ -9,7 +9,7 @@
 
 ## 🎓 About Me
 
-- **Student**: Electronics And Telecommunication (ENTC) 👑  
+- **Student**: Electronics And Telecommunication (ENTC) 
 <!-- - **Portfolio**: [Moncy](https://www.moncy.dev/) -->
 - **Skills I Use Daily**: `.js`, `.html`, `.css`, `.c`, `.py` 
 <!-- 
