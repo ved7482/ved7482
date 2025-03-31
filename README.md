@@ -21,7 +21,7 @@
 - **Currently Learning**: `React.js`  
 - **Working On**: Learning projects on WEB Development -->
 - **Reach Out To Me**:  
-  - 📸 [Instagram](https://www.instagram.com/divyanshu_nikhade/)  
+  - 📸 [Instagram](https://www.instagram.com/divyanshu_7482/)  
   - 🌍 [LinkedIn](https://www.linkedin.com/in/divyanshu-nikhade-a887b5331/)
   <!--
   - 🖋️ [Blog]( )  
