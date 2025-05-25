@@ -90,7 +90,7 @@
 
 ### <img src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="45" height="45" align ='center' /> ***GitHub Stats 🪶:*** 
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ved7482&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="180" /><br>
   <img src="https://github-readme-stats-three-gamma-87.vercel.app/api?username=ved7482&show_icons=true&locale=en&rank_icon=github&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false" alt="Divyanshu.'s GitHub stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ved7482&theme=dark&hide_border=false" alt="Streak stats" height="180" />
