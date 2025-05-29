@@ -96,7 +96,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ved7482&theme=dark&hide_border=false" alt="Streak stats" height="180" />
 </div>
 
----
+<!-- --- -->
 
 #### 📈 ***Contribution Graph***
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ved7482&show_icons=true&theme=github_dark&hide=rank_badge&include_all_commits=true&count_private=false)<br/>
