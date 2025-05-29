@@ -1,8 +1,8 @@
 # ***Hello there!*** <img src="https://github.com/user-attachments/assets/ef8aa47e-72db-4604-9985-6107dc3ad4cb" width="40" height="40" /> ***I'm Divyanshu Nikhade*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40" alt="Giphy">
-
+<!-- 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ved7482&label=Profile%20views&color=36BCF7&style=flat" alt="Profile Views" />
-</p>
+</p> -->
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&weight=800&duration=2500&pause=600&vCenter=true&width=435&lines=I'm+a+developer.%F0%9F%92%BB;I+love+creating+web+experiences...;Frontend+%2B+Backend+%2B+Everything+%E2%9A%A1;Let's+build+something+amazing!)
 
@@ -15,7 +15,7 @@
 - 🔢 I have a strong foundation in mathematical concepts and love building code that transforms complex equations into interactive, visual experiences.
 - 🌱 Passionate about learning and exploring new technologies.<br>
   Check out my ***[Portfolio Website](https://ved7482.github.io/tailwind-project/)***!
-- 📺 [***YouTube***](https://www.youtube.com/@DivyanshuNikhade)
+<!-- - 📺 [***YouTube***](https://www.youtube.com/@DivyanshuNikhade) -->
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="28" height="28" align ='center'/> ***Connect with me:***
 <p align="left">
@@ -34,9 +34,9 @@
   <!-- <a href="https://www.hackerrank.com/divyanshunikhad1" target="blank" title='HackerRank'>  
     <img align="center" src="./assets/svgs/hackerrank.svg" alt="HackerRank" height="29" width="29" margin="5"/>
   </a> -->
-  <a href="https://leetcode.com/ved7482/" target="blank" title='LeetCode'>  
+  <!-- <a href="https://leetcode.com/ved7482/" target="blank" title='LeetCode'>  
     <img align="center" src="./assets/svgs/leetcode.svg" alt="LeetCode" height="29" width="29" margin="5"/>
-  </a>
+  </a> -->
 </p>
 
 ### <img src="https://media.tenor.com/Pnb_hVWq2sgAAAAj/on-process-dig.gif" width="47" height="47" align ='center' /> ***Languages and Tools:***
@@ -109,7 +109,7 @@
 
 <hr>
 
-## <img src="./assets/gif/rocket-anime.gif" width="21" height="21" alt="Rocket Gif"> ***Stay Connected***
+## <img src="./assets/gif/rocket-anime.gif" width="25" height="25" alt="Rocket Gif"> ***Stay Connected***
 - 🌟 Let's collaborate on innovative projects that have the potential to make a significant impact.    
 - Check out my repositories and feel free to drop me a message.
 
